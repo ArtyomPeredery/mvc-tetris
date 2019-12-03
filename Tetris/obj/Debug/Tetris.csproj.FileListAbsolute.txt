@@ -1,0 +1,48 @@
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\bin\Debug\Tetris.exe
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\obj\Debug\Tetris.View.RankingForm.resources
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\obj\Debug\Tetris.Model.NameForm.resources
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\obj\Debug\Tetris.View.TetrisForm.resources
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\obj\Debug\Tetris.exe
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\Artem\Desktop\MVCTetris-master\Tetris\obj\Debug\Tetris.WaitingForm.resources
+E:\MVCTetris-master\Tetris\bin\Debug\Tetris.exe.config
+E:\MVCTetris-master\Tetris\bin\Debug\Tetris.exe
+E:\MVCTetris-master\Tetris\bin\Debug\Tetris.pdb
+E:\MVCTetris-master\Tetris\bin\Debug\Newtonsoft.Json.dll
+E:\MVCTetris-master\Tetris\bin\Debug\Newtonsoft.Json.xml
+E:\MVCTetris-master\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+E:\MVCTetris-master\Tetris\obj\Debug\Tetris.View.RankingForm.resources
+E:\MVCTetris-master\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+E:\MVCTetris-master\Tetris\obj\Debug\Tetris.Model.NameForm.resources
+E:\MVCTetris-master\Tetris\obj\Debug\Tetris.View.TetrisForm.resources
+E:\MVCTetris-master\Tetris\obj\Debug\Tetris.WaitingForm.resources
+E:\MVCTetris-master\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+E:\MVCTetris-master\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+E:\MVCTetris-master\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+E:\MVCTetris-master\Tetris\obj\Debug\Tetris.exe
+E:\MVCTetris-master\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\bin\Debug\Tetris.exe
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\obj\Debug\Tetris.View.RankingForm.resources
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\obj\Debug\Tetris.Model.NameForm.resources
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\obj\Debug\Tetris.View.TetrisForm.resources
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\obj\Debug\Tetris.WaitingForm.resources
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\obj\Debug\Tetris.exe
+C:\Users\Artem\Desktop\Учёба\4 семестр\КСиС\MVCTetris-master2\Tetris\obj\Debug\Tetris.pdb

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfRanking xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="Tetris.Model">
+  <Ranking>
+    <Score>10</Score>
+    <Name>fff</Name>
+  </Ranking>
+  <Ranking>
+    <Score>0</Score>
+    <Name>dddd</Name>
+  </Ranking>
+  <Ranking>
+    <Score>0</Score>
+    <Name>ddd</Name>
+  </Ranking>
+  <Ranking>
+    <Score>0</Score>
+    <Name>dddd</Name>
+  </Ranking>
+  <Ranking>
+    <Score>0</Score>
+    <Name>ЫФВАПРОЛДЖЭ</Name>
+  </Ranking>
+  <Ranking>
+    <Score>270</Score>
+    <Name>artem</Name>
+  </Ranking>
+  <Ranking>
+    <Score>290</Score>
+    <Name>artem</Name>
+  </Ranking>
+</ArrayOfRanking>
